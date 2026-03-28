@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <RootNamespace>Mouse_Shop</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <StartupObject>Mouse_Shop.App</StartupObject>
+    <ApplicationIcon>mouse.ico</ApplicationIcon>
+	  
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="mouse.ico" />
+  </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="MaterialDesignThemes" Version="4.8.0" />
+        <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+        <PackageReference Include="MvvmLightLibsStd10" Version="5.4.1.1" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+        <PackageReference Include="SimpleInjector" Version="5.4.1" />
+	  
+    </ItemGroup>
+
+</Project>

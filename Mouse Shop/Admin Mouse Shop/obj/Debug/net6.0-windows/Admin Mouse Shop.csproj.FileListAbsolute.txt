@@ -1,0 +1,90 @@
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.csproj.AssemblyReference.cache
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\MainView.g.cs
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\App.g.cs
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop_MarkupCompile.cache
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop_MarkupCompile.lref
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.exe
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.deps.json
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.runtimeconfig.json
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.dll
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.pdb
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+D:\Desktop\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\SimpleInjector.dll
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\App.baml
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\MainView.baml
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.g.resources
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.AssemblyInfoInputs.cache
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.AssemblyInfo.cs
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.csproj.CoreCompileInputs.cache
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.csproj.CopyComplete
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.dll
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\refint\Admin Mouse Shop.dll
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.pdb
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.genruntimeconfig.cache
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\ref\Admin Mouse Shop.dll
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\AddView.g.cs
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\AddView.baml
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\ChangeView.g.cs
+D:\Desktop\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\ChangeView.baml
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.exe
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.deps.json
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.runtimeconfig.json
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Admin Mouse Shop.pdb
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\SimpleInjector.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.csproj.AssemblyReference.cache
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\AddView.g.cs
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\ChangeView.g.cs
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\MainView.g.cs
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\App.g.cs
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop_MarkupCompile.cache
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop_MarkupCompile.lref
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\App.baml
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\AddView.baml
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\ChangeView.baml
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\View\MainView.baml
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.g.resources
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.AssemblyInfoInputs.cache
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.AssemblyInfo.cs
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.csproj.CoreCompileInputs.cache
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.csproj.CopyComplete
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\refint\Admin Mouse Shop.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.pdb
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\Admin Mouse Shop.genruntimeconfig.cache
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\obj\Debug\net6.0-windows\ref\Admin Mouse Shop.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\FBMS_1221_ru\Mouse Shop\Admin Mouse Shop\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
